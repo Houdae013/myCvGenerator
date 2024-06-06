@@ -1,0 +1,14 @@
+.photo-container {
+  background-color: #c3c6c3;
+  border-radius: 20px;
+  align-self: center;
+  margin-top: 105px;
+  padding: 10px;
+  box-shadow: +3px 2px 2px 2px #00000080, 10px 1px 12px #00000080,
+      2px 2px 10px #58555580, 2px 2px 3px #5e5c5c80, inset 2px 2px 10px #00000080,
+      inset 2px 2px 10px #a9a5a580, inset 2px 2px 10px #00000080,
+      inset 2px 2px 10px #81c9f380;
+}
+.photo-container h2 {
+  color: #3d3e3e;
+}

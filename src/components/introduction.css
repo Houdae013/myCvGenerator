@@ -1,0 +1,18 @@
+.introduction-container {
+  background-color: #b7e3f48c;
+  border-radius: 20px;
+  align-self: center;
+  margin: 15px;
+  padding: 10px;
+  box-shadow: +3px 2px 2px 2px #83ecfe, 10px 1px 12px hsl(189, 90%, 80%),
+      2px 2px 10px #92e4f2, 2px 2px 3px #9bebf9, inset 2px 2px 10px #76e8fc,
+      inset 2px 2px 10px #a2e8f4, inset 2px 2px 10px #7ee8fa,
+      inset 2px 2px 10px #90e6fd80;
+}
+
+.introduction-container h2 {
+  color: #00d9ff;
+}
+.introduction-container p{
+  font-weight: bold;
+}

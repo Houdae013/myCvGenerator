@@ -1,0 +1,30 @@
+.Home.body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('./fond.png') ;
+}
+
+
+.Home ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  margin: 0;
+  padding: 0;
+}
+
+.Home ul li {
+  display: inline;
+}
+
+
+.Home.container {
+  padding: 100px 20px; /* Adjust padding to prevent content from hiding behind the fixed header */
+  margin-top: 100px;
+}
+
+#introduction, #video, #buttons, #contacts {
+  margin-top: 100px;
+}
+

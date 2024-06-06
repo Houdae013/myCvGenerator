@@ -1,0 +1,54 @@
+.container-contacts ul.socials li {
+    background-color: #b4b4be;
+    font-size: auto;
+    width: auto;
+    height: auto;
+    box-shadow: +3px 2px 2px 2px #00000080, 10px 1px 12px #00000080,
+        2px 2px 10px #58555580, 2px 2px 3px #5e5c5c80, inset 2px 2px 10px #00000080,
+        inset 2px 2px 10px #a9a5a580, inset 2px 2px 10px #00000080,
+        inset 2px 2px 10px #29282880;
+    border-radius: 10px;
+    padding: 2px 4px;
+    margin: 10px;
+}
+.container-contacts ul.socials {
+    margin-top: -15px;
+    display: inline-flex;
+}
+.container-contacts h1 {
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: #e6e6fa;
+    text-shadow: #000000 0 10px 10px;
+    padding: auto;
+}
+.container-contacts ul{
+    line-height: 2.5;
+    color: #a7a3a3;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    list-style-type: none;
+    text-shadow: #000000 0 0px 10px;
+    padding: auto;
+    margin-left: 0px;
+}
+.container-contacts ul.socials{
+margin-left: 520px;
+}
+
+.container-contacts {
+    background-color: #6e7270;
+    border-radius: 20px;
+    align-self: center;
+    margin: 15px;
+    padding: 10px;
+    box-shadow: +3px 2px 2px 2px #00000080, 10px 1px 12px #00000080,
+        2px 2px 10px #58555580, 2px 2px 3px #5e5c5c80, inset 2px 2px 10px #00000080,
+        inset 2px 2px 10px #a9a5a580, inset 2px 2px 10px #00000080,
+        inset 2px 2px 10px #81c9f380;
+}
+.container-contacts a {
+    color: #b8bbbc;
+}
